@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "865eb465-a087-4d2e-8895-cc4b0a4d2cd6": {
+      "ProjectGuid": "865eb465-a087-4d2e-8895-cc4b0a4d2cd6",
+      "DisplayName": "ITS.DIQU.MicroServizi.Sender",
+      "ColorIndex": 0
+    },
+    "332ba3e6-796a-4431-8eee-09f2eecb2f82": {
+      "ProjectGuid": "332ba3e6-796a-4431-8eee-09f2eecb2f82",
+      "DisplayName": "ITS.DIQU.MicroServizi.SharedClass",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

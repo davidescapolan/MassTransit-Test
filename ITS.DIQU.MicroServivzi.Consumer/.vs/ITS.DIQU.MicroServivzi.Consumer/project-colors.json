@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c586cb49-0e05-4d08-9142-cc5c64243d3c": {
+      "ProjectGuid": "c586cb49-0e05-4d08-9142-cc5c64243d3c",
+      "DisplayName": "ITS.DIQU.MicroServivzi.Consumer",
+      "ColorIndex": 0
+    },
+    "ce1bdc5f-3244-49e0-84ef-713d2fdab5da": {
+      "ProjectGuid": "ce1bdc5f-3244-49e0-84ef-713d2fdab5da",
+      "DisplayName": "ITS.DIQU.MicroServivzi.Consumer.Prova",
+      "ColorIndex": 1
+    },
+    "e5c17266-be1a-4a53-854e-3a6eddd955f8": {
+      "ProjectGuid": "e5c17266-be1a-4a53-854e-3a6eddd955f8",
+      "DisplayName": "ITS.DIQU.MicroServivzi.Consumer.App",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

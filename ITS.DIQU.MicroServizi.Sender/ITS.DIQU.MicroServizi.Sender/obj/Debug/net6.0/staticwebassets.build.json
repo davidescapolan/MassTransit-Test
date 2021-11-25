@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1BRPVc8vDWH6WVGHzWLzN8shC3zeRHHBE6sokkxqbeE=",
+  "Source": "ITS.DIQU.MicroServizi.Sender",
+  "BasePath": "_content/ITS.DIQU.MicroServizi.Sender",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

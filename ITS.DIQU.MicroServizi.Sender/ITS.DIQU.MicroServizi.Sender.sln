@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITS.DIQU.MicroServizi.Sender", "ITS.DIQU.MicroServizi.Sender\ITS.DIQU.MicroServizi.Sender.csproj", "{865EB465-A087-4D2E-8895-CC4B0A4D2CD6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{332BA3E6-796A-4431-8EEE-09F2EECB2F82} = {332BA3E6-796A-4431-8EEE-09F2EECB2F82}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITS.DIQU.MicroServizi.SharedClass", "..\ITS.DIQU.MicroServizi.SharedClass\ITS.DIQU.MicroServizi.SharedClass\ITS.DIQU.MicroServizi.SharedClass.csproj", "{332BA3E6-796A-4431-8EEE-09F2EECB2F82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865EB465-A087-4D2E-8895-CC4B0A4D2CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865EB465-A087-4D2E-8895-CC4B0A4D2CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865EB465-A087-4D2E-8895-CC4B0A4D2CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865EB465-A087-4D2E-8895-CC4B0A4D2CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{332BA3E6-796A-4431-8EEE-09F2EECB2F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332BA3E6-796A-4431-8EEE-09F2EECB2F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332BA3E6-796A-4431-8EEE-09F2EECB2F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332BA3E6-796A-4431-8EEE-09F2EECB2F82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C577180A-2912-45A3-9DF4-A3530307A033}
+	EndGlobalSection
+EndGlobal
